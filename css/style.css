@@ -1,0 +1,182 @@
+.body {
+    overflow-x: hidden; 
+    height: 4500px;
+
+    -ms-user-select: none; 
+    -moz-user-select: none; 
+    -webkit-user-select: none; 
+    user-select: none;
+}
+.div0 {
+    display: flex;
+    justify-content: space-between;
+    /* растянуть элементы по ширине всей области */
+}
+.style_text_menu {
+        font-size: 22px;
+        font-family: 'Quicksand', sans-serif;
+        font-weight: 500;
+}
+.menu_g1 {
+    padding-right: 50px;
+}
+.menu_g2 {
+    padding-right: 20px;
+}
+.menu1 {
+    display: flex;
+    list-style: none;
+    /* text-decoration: none; */
+    padding-left: 300px;
+    padding-top: 17px;
+}
+.menu2 {
+    display: flex;
+    list-style: none;
+    /* text-decoration: none; */
+    padding-right: 50px;
+    padding-top: 25px;
+}
+.but1 {
+    width: 113px;
+    height: 43px;
+    background: #D2E1FF;
+    border-radius: 2px;
+    font-family: 'Quicksand', sans-serif;
+} 
+.logo {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(156, 174, 255);
+    border-radius: 20px;
+    position: absolute;
+    top: 20px;
+    left: 170px;
+}
+.img1 {
+    width: 100%;
+}
+.div1 {
+    padding-top: 110px;
+    padding-left: 500px;
+    padding-bottom: 110px;
+}
+.img_logos {
+    padding-right: 90px;
+    width: 10%;
+    height: auto;
+}
+.plashka1 {
+    width: 2362px;
+    height: 1090px;
+    background: #F5F8FF;
+}
+.img2 {
+    width: 50%;
+    position: absolute;
+    top: 1500px;
+    left: 1200px;
+}
+.pl1_P_1 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+}
+.plashka2 {
+    width: 2362px;
+    height: 1090px;
+    background: #ffffff;
+}
+.img3 {
+    position: absolute;
+    top: 2420px;
+    left: 100px;
+    width: 90%;
+}
+.div2 {
+    padding-left: 690px;
+    padding-top: 400px;
+}
+.img_O {
+    width: 5%;
+    padding-right: 200px;
+}
+.img_o_text {
+    display: flex;
+    font-size: 20px;
+    color: #4074F8;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    padding-left: 680px;
+}
+.img_o_txt {
+    padding-right: 175px;
+}
+.o2 {
+    padding-left: 46px;
+}
+.o3 {
+    padding-left: 30px;
+}
+.o_txt2 {
+    color: #ADB3CB;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    padding-right: 130px;
+}
+.img_o_text2 {
+    display: flex;
+    text-align: center;
+    padding-left: 625px;
+}
+.div0_niz {
+    display: flex;
+    justify-content: space-between;
+    /* растянуть элементы по ширине всей области */
+    padding-top: 810px;
+}
+.logo_niz {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(156, 174, 255);
+    border-radius: 20px;
+    position: absolute;
+    top: 4300px;
+    left: 170px;
+}
+.style_text_menu2 {
+        font-size: 22px;
+        font-family: 'Quicksand', sans-serif;
+        font-weight: 500;
+}
+.menu_g3 {
+    padding-right: 50px;
+}
+.menu_g4 {
+    padding-right: 20px;
+}
+.menu3 {
+    display: flex;
+    list-style: none;
+    padding-left: 300px;
+    padding-top: 17px;
+}
+.menu4 {
+    display: flex;
+    list-style: none;
+    padding-right: 50px;
+    padding-top: 25px;
+}
+.but2 {
+    width: 113px;
+    height: 43px;
+    background: #D2E1FF;
+    border-radius: 2px;
+    font-family: 'Quicksand', sans-serif;
+}
+.copyrt {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+    color: #AEB8D0;
+    padding-left: 300px;
+}
